@@ -1,0 +1,5 @@
+Monday - DekstopProgramming - DekstopProgramming - ComputerStudy - CrossPlatformDevelopment - None 
+Tuesday - CrossPlatformDevelopment - CrossPlatformDevelopment  - Mathematics - ComputerStudy - None 
+Wednesday - GraphicDesign - ComputerStudy - GraphicDesign - CrossPlatformDevelopment  - None 
+Thursday - GraphicDesign - GraphicDesign - ComputerStudy - Mathematics - None
+Friday - None - DekstopPogramming - DekstopProgramming - CrossPlatformDevelopment  - None 

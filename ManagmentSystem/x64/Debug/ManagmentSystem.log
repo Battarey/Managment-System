@@ -1,0 +1,10 @@
+﻿  Functions.cpp
+D:\Programming\CPP\ManagmentSystem\Functions.cpp(166,167): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\CPP\ManagmentSystem\Functions.cpp(167,172): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\CPP\ManagmentSystem\Functions.cpp(194,22): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+  FunctionsDirector.cpp
+  FunctionsStudent.cpp
+  FunctionsTeacher.cpp
+  Source.cpp
+  Создание кода...
+  ManagmentSystem.vcxproj -> D:\Programming\CPP\ManagmentSystem\x64\Debug\ManagmentSystem.exe
